@@ -1,0 +1,71 @@
+#bg {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+#open {
+	position: absolute;
+	left: 10%;
+	top: 55%;
+	width: 150px;
+	height: 50px;
+	z-index: 100;
+	display:block;
+	font-size: 20px;
+    color: #000000;
+	background-color: #FFAA00;
+	appearance: none;
+	border: 2px solid #FFAA00;
+	border-radius: 5px;
+	transition-duration: 0.4s;
+	font-family: 'Varela Round', sans-serif;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#open:hover {
+	background-color:#f5edbf;
+	
+
+}
+#log-out {
+  position: absolute;
+  font-family: 'Varela Round', sans-serif;
+	right: 1%;
+	bottom: 5%;
+	width: 80px;
+	height: 40px;
+	z-index: 100;
+	display:block;
+	font-size: 16px;
+    color: #3c3b3b;
+	background-color: #FFAA00;
+	border: 2px solid #FFAA00;
+	appearance: none;
+	border-radius: 5px;
+	transition-duration: 0.4s;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#log-out:hover {
+	background-color:#ed824c;
+}
+#err {
+
+	left: 50%;
+	top: 50%;
+	font-size: 40px;
+	z-index: 10;
+}
+#img {
+	position: absolute;
+	height: 30%;
+	z-index: 100;
+}
+#cred {
+	font-size: 16px;
+    color: #3c3b3b;
+	position: absolute;
+	font-family: 'Varela Round', sans-serif;
+	z-index: 100;
+	bottom: 4%;
+	right: 8%;
+}

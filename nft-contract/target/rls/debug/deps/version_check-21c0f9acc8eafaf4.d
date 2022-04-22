@@ -1,0 +1,10 @@
+/home/ippishio/projets/near_protocol/hackaton/second_week/nft-tutorial/nft-tutorial/nft-contract/target/rls/debug/deps/version_check-21c0f9acc8eafaf4.rmeta: /home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs /home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs /home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs /home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs
+
+/home/ippishio/projets/near_protocol/hackaton/second_week/nft-tutorial/nft-tutorial/nft-contract/target/rls/debug/deps/libversion_check-21c0f9acc8eafaf4.rlib: /home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs /home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs /home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs /home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs
+
+/home/ippishio/projets/near_protocol/hackaton/second_week/nft-tutorial/nft-tutorial/nft-contract/target/rls/debug/deps/version_check-21c0f9acc8eafaf4.d: /home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs /home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs /home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs /home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs
+
+/home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs:
+/home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs:
+/home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs:
+/home/ippishio/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs:
